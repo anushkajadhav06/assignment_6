@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Create sample data
 data = {
     'Name': ['Aman', 'Riya', 'Karan', 'Riya', 'Neha'],
     'Marks': [85, 90, None, 90, 75],
