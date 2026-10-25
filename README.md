@@ -1,4 +1,3 @@
-# assignment_6
 import pandas as pd
 
 # Create sample data
